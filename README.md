@@ -13,4 +13,4 @@ Este proyecto investiga el uso de redes neuronales convolucionales (CNN) en tare
 - Procesamiento de Imágenes
 
 ## 🔗 Referencias
-Consulta el documento completo para más detalles: [PDF del Proyecto](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://dspace.umh.es/bitstream/11000/28545/1/TFG-Ortiz%20Legaci%c3%b3n%2c%20Ana%20Mar%c3%ada.pdf).
+Consulta el documento completo para más detalles: [PDF del Proyecto](https://dspace.umh.es/handle/11000/28545).
