@@ -5,7 +5,7 @@ Este proyecto investiga el uso de redes neuronales convolucionales (CNN) en tare
 ## 📂 Estructura del Proyecto
 - **code/**: Código en MATLAB para evaluación de CNNs.
 - **data/**: Dataset utilizado.
-- **processed_data/**: Imágenes procesadas.
+- **data_processed/**: Imágenes procesadas.
 - **results/**: Gráficos y análisis de resultados.
 
 ## 🛠 Tecnologías
